@@ -3,7 +3,8 @@
 
 ## Especially those who can least afford it.
 
-![Photo by [Crawford Ifland](https://unsplash.com/photos/V2UpdUxiBWI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/san-francisco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/assets/images/your-expense-policy-is-hurting-your-team/1*GeQB7auXXWyDSD3ez21lDg.jpeg)*Photo by [Crawford Ifland](https://unsplash.com/photos/V2UpdUxiBWI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/san-francisco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+![Photo by [Crawford Ifland](https://unsplash.com/photos/V2UpdUxiBWI) on [Unsplash](https://unsplash.com/search/photos/san-francisco)](/assets/images/your-expense-policy-is-hurting-your-team/1GeQB7auXXWyDSD3ez21lDg.jpeg) 
+*Photo by [Crawford Ifland](https://unsplash.com/photos/V2UpdUxiBWI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/san-francisco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 For most companies their expense policy is an afterthought.
 

@@ -3,7 +3,7 @@
 
 ## Today I’m excited to launch Spritz: the world’s most refreshing corporate card.
 
-![](/assets/images/welcome-spritz-the-worlds-most-refreshing-corporate-card/1*dfp4e8kJ6M-05m-5a61qAQ.png)
+![](/assets/images/welcome-spritz-the-worlds-most-refreshing-corporate-card/1dfp4e8kJ6M-05m-5a61qAQ.png)
 
 Every company in the world has expenses but no one likes doing them. We’re here to change that.
 

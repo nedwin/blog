@@ -12,13 +12,13 @@ Time spent out of the office helps us perform better when we’re at work.
 
 And while tools like Slack help us to live more flexible lives they also have a habit of intruding on our personal time.
 
-![Fairly typical week in the life…](/assets/images/introducing-brb-life-get-out-of-the-office/1*eCTmwmwKL9m8l9RR6jAYNQ.png)*Fairly typical week in the life…*
+![Fairly typical week in the life…](/assets/images/introducing-brb-life-get-out-of-the-office/1eCTmwmwKL9m8l9RR6jAYNQ.png)<br>*Fairly typical week in the life…*
 
 At GoDaddy our team spends a lot of time out of the office. A lot. Whether it’s just for the morning for a doctors appointment or for an extended trip to a conference, everyone has a lot going on.
 
 Knowing who is in and who is out helps to plan out the work for the week, and make sure everyone is covered for. For example it’s impossible for us to hit our release commitment if we find out mid-sprint that half the team is going to be out.
 
-![Me with my “how do I know who is in the office?!” face.](/assets/images/introducing-brb-life-get-out-of-the-office/1*jRlTdxH82YPGBFzzvEsmMQ.jpeg)*Me with my “how do I know who is in the office?!” face.*
+![Me with my “how do I know who is in the office?!” face.](/assets/images/introducing-brb-life-get-out-of-the-office/1jRlTdxH82YPGBFzzvEsmMQ.jpeg)<br>*Me with my “how do I know who is in the office?!” face.*
 
 While small teams can get by with verbally communicating or managing with shared Google calendars, these methods don’t scale well. More importantly they don’t work when communicating outside of your team to key stakeholders.
 
@@ -32,7 +32,7 @@ Brb.life has three main features:
 
 We’ve made a conscious decision to focus on the needs of individual contributors and making it as easy as possible for them to keep their teams posted.
 
-![Last minute grind @ Coffee Bar in the Mission](/assets/images/introducing-brb-life-get-out-of-the-office/1*R6LvrOLMFScJtXXrxKs6iQ.jpeg)*Last minute grind @ Coffee Bar in the Mission*
+![Last minute grind @ Coffee Bar in the Mission](/assets/images/introducing-brb-life-get-out-of-the-office/1R6LvrOLMFScJtXXrxKs6iQ.jpeg)<br>*Last minute grind @ Coffee Bar in the Mission*
 
 We’re explicitly not building (at least yet) for the needs of HR or management with functionality like leave approvals or tracking remaining paid time off.
 > # Sign up to get early access to the [private beta here](http://www.brb.life).
