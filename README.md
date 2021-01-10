@@ -18,6 +18,6 @@ open http://localhost:4000
 
 Create a new file in the `_posts` directory using the `YYYY-MM-DD-<title>.md` filename convention. 
 
-Images you'd like to include should be placed in the `assets/images` folder.
+Images you'd like to include should be placed in the `assets/images` folder. When referencing an image from markdown in a blog post you need to prefix the url with `{{ site.baseurl }}`.
 
 Commit your blog to the `main` branch and they will be live!
