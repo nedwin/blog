@@ -13,3 +13,11 @@ bundle install
 bundle exec jekyll serve --baseurl ""
 open http://localhost:4000
 ```
+
+## Writing a blog
+
+Create a new file in the `_posts` directory using the `YYYY-MM-DD-<title>.md` filename convention. 
+
+Images you'd like to include should be placed in the `assets/images` folder.
+
+Commit your blog to the `main` branch and they will be live!
