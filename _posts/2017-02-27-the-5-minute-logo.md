@@ -21,7 +21,7 @@ You will want to find a font which matches the branding, whatever you’re going
 
 Whatever it is you want to try out a few fonts and see the fonts side by side so you can make a comparison. As per Marc’s suggestion I also tried uppercase and lower case to find the right solution.
 
-![Font options for [brb.life](https://www.brb.life/?utm_source=nedwin&utm_medium=Medium&utm_campaign=v2-launch&utm_content=5-minute-logo) — the Slackbot to book time out of the office.](/assets/images/the-5-minute-logo/165X0_5RmC2O71RnfTsasYQ.png)*Font options for [brb.life](https://www.brb.life/?utm_source=nedwin&utm_medium=Medium&utm_campaign=v2-launch&utm_content=5-minute-logo) — the Slackbot to book time out of the office.*
+![Font options for [brb.life](https://www.brb.life/?utm_source=nedwin&utm_medium=Medium&utm_campaign=v2-launch&utm_content=5-minute-logo) — the Slackbot to book time out of the office.]({{ site.baseurl }}/assets/images/the-5-minute-logo/165X0_5RmC2O71RnfTsasYQ.png)*Font options for [brb.life](https://www.brb.life/?utm_source=nedwin&utm_medium=Medium&utm_campaign=v2-launch&utm_content=5-minute-logo) — the Slackbot to book time out of the office.*
 
 Looking at all the options I felt like all caps was a little too aggressive and even camel case didn’t do it for me, so I ended up going with all lower case. Nice and low-key.
 
@@ -35,7 +35,7 @@ Now that we have a nice looking type face we can find an icon to go with it.
 
 I was looking for something indicative of vacations so my first run at grabbing some icons looked like this:
 
-![Shortlist of icons to play with courtesy of the [Noun Project](http://https//nounproject.com).](/assets/images/the-5-minute-logo/1HnxsTvCGuTkrYynlcMs6Qg.png)*Shortlist of icons to play with courtesy of the [Noun Project](http://https//nounproject.com).*
+![Shortlist of icons to play with courtesy of the [Noun Project](http://https//nounproject.com).]({{ site.baseurl }}/assets/images/the-5-minute-logo/1HnxsTvCGuTkrYynlcMs6Qg.png)*Shortlist of icons to play with courtesy of the [Noun Project](http://https//nounproject.com).*
 
 Just go to NounProject.com and search for keywords to find some good options. My keywords were included holidays, vacation, beach, and tropical.
 
@@ -59,7 +59,7 @@ Trying to figure out some interesting colours that I could use for the branding 
 
 I took screenshots of some of the ones that I liked and brought them into Sketch to experiment with.
 
-![](/assets/images/the-5-minute-logo/1hcKRN7BHqKRLnHkM8lao_A.png)
+![]({{ site.baseurl }}/assets/images/the-5-minute-logo/1hcKRN7BHqKRLnHkM8lao_A.png)
 
 I then threw these against my icon + shape combinations to see what took shape.
 
@@ -75,7 +75,7 @@ Now that we’d cycled through all of these options I could take my pick on whic
 
 And here it is:
 
-![My 5 minute logo for [brb.life](https://www.brb.life/?utm_source=nedwin&utm_medium=Medium&utm_campaign=v2-launch&utm_content=5-minute-logo)](/assets/images/the-5-minute-logo/1hgyszpCVCGVFhIuoIHe7ZA.png)<br>*My 5 minute logo for [brb.life](https://www.brb.life/?utm_source=nedwin&utm_medium=Medium&utm_campaign=v2-launch&utm_content=5-minute-logo)*
+![My 5 minute logo for [brb.life](https://www.brb.life/?utm_source=nedwin&utm_medium=Medium&utm_campaign=v2-launch&utm_content=5-minute-logo)]({{ site.baseurl }}/assets/images/the-5-minute-logo/1hgyszpCVCGVFhIuoIHe7ZA.png)<br>*My 5 minute logo for [brb.life](https://www.brb.life/?utm_source=nedwin&utm_medium=Medium&utm_campaign=v2-launch&utm_content=5-minute-logo)*
 
 We ended up choosing this as our logo and I’ve got to say I’m pretty happy with it. Nice and simple yet bright and fun — and definitely not everyones cup of tea. I felt like it aligns with our branding and the idea that [brb.life](https://www.brb.life/?utm_source=nedwin&utm_medium=Medium&utm_campaign=v2-launch&utm_content=5-minute-logo) helps you enjoy life a little bit more by getting you out of the office.
 
