@@ -1,7 +1,7 @@
-
-# Seek rejection
-
-## 
+---
+layout: post
+title:  "Seek rejection"
+---
 
 *This is a post first published in August 2011 from my long lost WordPress blog and reposted here for posterity.*
 

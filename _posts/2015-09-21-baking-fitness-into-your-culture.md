@@ -1,5 +1,7 @@
-
-# Baking fitness into your culture
+---
+layout: post
+title:  "Baking fitness into your culture"
+---
 
 ## San Francisco Hill Runners conquer the Dipsea Trail in the Marin Headlands.
 

@@ -1,5 +1,7 @@
-
-# Welcome Spritz — the world’s most refreshing corporate card
+---
+layout: post
+title:  "Welcome Spritz — the world’s most refreshing corporate card"
+---
 
 ## Today I’m excited to launch Spritz: the world’s most refreshing corporate card.
 

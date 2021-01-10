@@ -1,7 +1,7 @@
-
-# My failures (to date)
-
-## 
+---
+layout: post
+title:  "My failures (to date)"
+---
 
 *This is a post first published in January 2012 from my long lost WordPress blog and reposted here for posterity.*
 

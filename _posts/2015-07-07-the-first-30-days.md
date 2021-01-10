@@ -1,5 +1,7 @@
-
-# The first 30 days
+---
+layout: post
+title:  "The first 30 days"
+---
 
 ## FKA Twigs
 

@@ -1,5 +1,7 @@
-
-# What the Quickbooks Accounting community can learn from GoDaddy Pro
+---
+layout: post
+title:  "What the Quickbooks Accounting community can learn from GoDaddy Pro"
+---
 
 ## Claudell, the face of QuickBooks Live.
 

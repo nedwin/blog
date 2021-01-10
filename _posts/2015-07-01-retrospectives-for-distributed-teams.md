@@ -1,7 +1,7 @@
-
-# Retrospectives for distributed teams
-
-## 
+---
+layout: post
+title:  "Retrospectives for distributed teams"
+---
 
 The retrospective is the process that I use to iterate on how we work together as a team, to continuously improve ourselves.
 

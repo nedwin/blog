@@ -1,5 +1,7 @@
-
-# The 5 minute logo
+---
+layout: post
+title:  "The 5 minute logo"
+---
 
 ## One of the great things about side projects is that you get to try on hats that you normally wouldn’t get to in your regular job. Like branding.
 

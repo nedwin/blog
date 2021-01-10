@@ -1,7 +1,7 @@
-
-# The Product Management reading playlist
-
-## 
+---
+layout: post
+title:  "The Product Management reading playlist"
+---
 
 A [reading playlist](https://medium.com/things-ive-written/updating-my-text-playlist-3c75f5999bd0) is a lot like a music playlist — a collection of articles you can listen to again and again which, when combined, tell a story.
 

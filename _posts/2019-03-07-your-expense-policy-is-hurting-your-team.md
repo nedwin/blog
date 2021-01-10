@@ -1,5 +1,7 @@
-
-# Your expense policy is hurting your team
+---
+layout: post
+title:  "Your expense policy is hurting your team"
+---
 
 ## Especially those who can least afford it.
 

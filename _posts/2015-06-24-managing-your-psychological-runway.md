@@ -1,5 +1,7 @@
-
-# Managing your psychological runway
+---
+layout: post
+title:  "Managing your psychological runway"
+---
 
 ## Ray Collins beautiful photos of waves. http://raycollinsphoto.com
 

@@ -1,7 +1,7 @@
-
-# My love affair with large, competitive, fragmented markets
-
-## 
+---
+layout: post
+title:  "My love affair with large, competitive, fragmented markets"
+---
 
 It’s easy to think all the good startup problems in B2B SAAS have already been solved.
 

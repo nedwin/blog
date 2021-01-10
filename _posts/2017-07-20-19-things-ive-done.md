@@ -1,5 +1,7 @@
-
-# 19 Things I’ve Done
+---
+layout: post
+title:  "19 Things I’ve Done"
+---
 
 ## “Can I call you back?” — me, circa 1987
 

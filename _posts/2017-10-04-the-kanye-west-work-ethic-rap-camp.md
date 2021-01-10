@@ -1,5 +1,7 @@
-
-# The Kanye West Work Ethic @ Rap Camp
+---
+layout: post
+title:  "The Kanye West Work Ethic @ Rap Camp"
+---
 
 ## Kanye West @ the BET Awards in 2016
 

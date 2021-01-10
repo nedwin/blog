@@ -1,7 +1,7 @@
-
-# Drew Houston on choosing DropBox as his next idea
-
-## 
+---
+layout: post
+title:  "Drew Houston on choosing DropBox as his next idea"
+---
 
 *This is a post first published in July 2011 from my long lost WordPress blog and reposted here for posterity.*
 

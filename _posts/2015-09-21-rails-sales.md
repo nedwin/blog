@@ -1,5 +1,7 @@
-
-# Rails & Sales
+---
+layout: post
+title:  "Rails & Sales"
+---
 
 ## YCombinator President Sam Altman.
 

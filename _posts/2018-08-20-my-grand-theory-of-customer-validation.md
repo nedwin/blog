@@ -1,5 +1,7 @@
-
-# The Grand Theory Of Customer Validation
+---
+layout: post
+title:  "The Grand Theory Of Customer Validation"
+---
 
 ## Talking to customers is a critical factor in building a successful company.
 

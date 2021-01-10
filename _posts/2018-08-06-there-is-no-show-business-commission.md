@@ -1,5 +1,7 @@
-
-# There is no Show Business Commission
+---
+layout: post
+title:  "There is no Show Business Commission"
+---
 
 ## Alec Baldwin & Jerry Seinfeld
 

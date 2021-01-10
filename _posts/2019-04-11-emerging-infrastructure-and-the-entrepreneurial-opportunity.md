@@ -1,7 +1,10 @@
+---
+layout: post
+title:  "Emerging infrastructure and the entrepreneurial opportunity"
+---
 
-# Emerging infrastructure and the entrepreneurial opportunity
-
-## Photo by Jake Sloop on Unsplash
+![]({{ site.baseurl }}/assets/images/emerging-infrastructure-and-the-entrepreneurial-opportunity/17dxhmfQzKPBY0uGt6RZ1Fw.jpeg)
+*Photo by Jake Sloop on Unsplash*
 
 Less than 10 years ago one of the first steps in launching your web or mobile app was buying and setting up your own dedicated hardware in a back room or remote server farm.
 

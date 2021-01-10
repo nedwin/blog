@@ -1,7 +1,7 @@
-
-# Introducing brb.life — get out of the office
-
-## 
+---
+layout: post
+title:  "Introducing brb.life — get out of the office"
+---
 
 Today we’re launching the private beta for brb.life — a tool to help you notify your team when you’re out of the office.
 > # Sign up for early access at [brb.life](http://www.brb.life).
