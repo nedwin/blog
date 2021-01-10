@@ -28,7 +28,6 @@ twitter_username: nedwin
 github_username:  nedwin
 
 # Build settings
-theme: jekyll-athena
 remote_theme: broccolini/athena
 plugins:
   - jekyll-feed
